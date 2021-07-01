@@ -1,0 +1,3 @@
+const receivesAFunction = () => {
+    return 'success';
+};
